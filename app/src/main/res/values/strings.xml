@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GIS</string>
+    <string name="deskripsi">Kabupaten Banyuwangi, terletak di ujung paling Timur pulau Jawa dan berbatasan langsung dengan Kabupaten Situbondo di utara, selat Bali di Timur, Samudra Hindia di selatan serta Kabupaten Jember dan Kabupaten Bondowoso di barat.
+
+        Mayoritas penduduk lokal Banyuwangi adalah suku Osing yang dipercaya merupakan sub-suku Jawa, dan suku lain yang hidup dengan damai seperti, suku Madura, suku Jawa, Bali dan Bugis.
+
+        Dalam keseharian, penduduk lokal memakai bahasa Osing, yang merupakan ragam tertua bahasa Jawa tapi berdasarkan kebudayaan, budaya suku Osing banyak dipengaruhi oleh budaya Bali.
+
+        Dengan luas 5.800 Km2, segala hal yang ada di Kabupaten Banyuwangi sangat menarik untuk di bahas, baik dari segi budaya, pariwisata alamnya atau bahkan kulinernya.
+
+        Secara geografis, Banyuwangi terletak di daerah wisata alam yang masih hijau dan liar layaknya safari di Afrika, di tambah juga dengan lokasinya yang dekat dengan Samudra Hindia.
+
+        Dengan begitu, terdapat penyatuan lokasi yang bisa dikunjungi yaitu pantai dan daerah pegunungan seperti Taman Nasional Baluran, Kawah Ijen, Taman Wisata Rogojampi dan masih banyak lagi.
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
